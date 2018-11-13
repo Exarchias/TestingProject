@@ -1,0 +1,5 @@
+// this a python program to wrtitten in a txt file
+a = [x for x in range(100)]
+
+for i in a:
+	print(i)
